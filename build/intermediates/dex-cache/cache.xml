@@ -3,138 +3,75 @@
 
     <item
         is-multidex="true"
-        jar="/Users/admin/.android/build-cache/08cd1903d9fd7bf58a0399a160052678fcfa1b63/output/jars/classes.jar"
+        jar="/Users/admin/.android/build-cache/99cc2a7ebf3be3ed10b50f4cbe4f5df555515d8d/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.1"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7deb897284c137b5a1465d53d7a30f05de7294aa/classes.dex" />
+        revision="25.0.3"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4554cd4f5d8233fa6dd7b91bfa22a10af65bd522/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/admin/.android/build-cache/9526094fc8c2f3a805bb24ecbc79f318583d28f6/output/jars/classes.jar"
+        jar="/Users/admin/Desktop/gi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.1"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0ee625420c1dcd72c66937aa6ad2275a8eeb4ed/classes.dex" />
+        revision="25.0.3"
+        sha1="09b3b55d9ad7bec23e26c72fc53a3c16bec11505">
+        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_feaa0eb35baa8b80b7b5ae9908c66d93b1e31a87/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.1"
-        sha1="cb355f32b95bacf59f470de877f08ed7f12526e8">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_df50f8517d649bcab57b0875edd7b41fcd0c4cb3/classes.dex" />
+        revision="25.0.3"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.4.0_fa411efe13dc691dc3c5b909578c1a2fefdca6ff/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/admin/.android/build-cache/04be2ce87fc96c0f8e7e783dbfd445b3382b5c2c/output/jars/classes.jar"
+        jar="/Users/admin/Desktop/gi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f87686e2f7fb44e53bca01d9b6ddff1e76f5a7a/classes.dex" />
+        sha1="3b878498491cb28e79d7f5ba2761b668a00ef92e">
+        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_feaa0eb35baa8b80b7b5ae9908c66d93b1e31a87/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/admin/.android/build-cache/69222cbaa9f4f87afb22c4ce1e9f2494f1d175c4/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1f4ed80eb73b84ada41201afd2cd1a30f16e8b9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/.android/build-cache/ef1a7a4f331a15038cd9043e13cce984479c2499/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cab0804fdad290f58755a3552fb2ac44c92472b7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/admin/Desktop/gi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2cb71f2663e2e1d6d3c7bdaf5550261ba1d75f7/classes.dex" />
+        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_601456efbc15d35fc2df997760732c95113020e1/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/admin/.android/build-cache/197e7d4a41d5cb7d9f4496aa9afb00ab95c7917b/output/jars/classes.jar"
+        jar="/Users/admin/Desktop/gi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_991b2ec281f3638ab85cf4f761d3f2601a435d58/classes.dex" />
+        revision="25.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_601456efbc15d35fc2df997760732c95113020e1/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/admin/.android/build-cache/c3871e44f3e25202b3b382dbbd508367d087b335/output/jars/classes.jar"
+        jar="/Users/admin/.android/build-cache/7991a60c5aa408c34f4a4d47063388edefd13b90/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.1"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e359ba54b13190315ee1865da17078f090518c75/classes.dex" />
+        revision="25.0.3"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d3ea3009ca46a70e0a6a0f82f5ca9626bce49cf/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/admin/.android/build-cache/2273cc06d3926382cb323300e34ed7cf811ce5a5/output/jars/classes.jar"
+        jar="/Users/admin/.android/build-cache/64611bd04170be7e9f8822f99ab6dc226f54b457/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.1"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_973d82d56ae3e9b1283eab87d7d5e1de62da8580/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/.android/build-cache/fcc8a12932008b805abe2379720ad5338518b87d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45f5378a3ea888586ea5272b38f830da3cedf3ed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/.android/build-cache/95f544887a61243d4e476741bfe909a9dce0a275/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f32e932bc129125e1a5392119a96c3ce2b7056c6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_011aae8a4db5703fa15d15fe62c99995e9e4b1ce/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/.android/build-cache/313149e64e825b81e87c5ad7e47301673f4d19b1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e51c2f662bb72419632af5192553c37e33890a99">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72f855c54d3ee46d3119655c31724379b3096c87/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/.android/build-cache/f48e3b9d596fd191fd6251afa1b99dd8c79c2397/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
-        <dex dex="/Users/admin/Downloads/ExpandTextView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87118f9a8854956ac1f71a728dcedae1864fa462/classes.dex" />
+        revision="25.0.3"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f95840ec39cd042790bb088d7c9af40ba92f354/classes.dex" />
     </item>
 
 </items>
