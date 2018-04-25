@@ -3,75 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/admin/.android/build-cache/99cc2a7ebf3be3ed10b50f4cbe4f5df555515d8d/output/jars/classes.jar"
+        jar="/Users/admin/Desktop/demo/ExpandTextView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
-        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4554cd4f5d8233fa6dd7b91bfa22a10af65bd522/classes.dex" />
+        sha1="5b3865c227d59d3556a079585d36db538e22ca34">
+        <dex dex="/Users/admin/Desktop/demo/ExpandTextView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cb9fe8198e3432fa7a7381955c7ccb16cf044030/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/admin/Desktop/gi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="09b3b55d9ad7bec23e26c72fc53a3c16bec11505">
-        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_feaa0eb35baa8b80b7b5ae9908c66d93b1e31a87/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
-        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.4.0_fa411efe13dc691dc3c5b909578c1a2fefdca6ff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/Desktop/gi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3b878498491cb28e79d7f5ba2761b668a00ef92e">
-        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_feaa0eb35baa8b80b7b5ae9908c66d93b1e31a87/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/Desktop/gi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
-        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_601456efbc15d35fc2df997760732c95113020e1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/Desktop/gi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/admin/Desktop/demo/ExpandTextView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
-        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_601456efbc15d35fc2df997760732c95113020e1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/.android/build-cache/7991a60c5aa408c34f4a4d47063388edefd13b90/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
-        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d3ea3009ca46a70e0a6a0f82f5ca9626bce49cf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/.android/build-cache/64611bd04170be7e9f8822f99ab6dc226f54b457/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
-        <dex dex="/Users/admin/Desktop/gi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f95840ec39cd042790bb088d7c9af40ba92f354/classes.dex" />
+        <dex dex="/Users/admin/Desktop/demo/ExpandTextView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b12b5a367cb162c165c407f32c4a14475d5cc564/classes.dex" />
     </item>
 
 </items>

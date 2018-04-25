@@ -1,6 +1,8 @@
 package com.lcodecore.expandtextview;
 
+import android.content.Intent;
 import android.support.v7.widget.Toolbar;
+import android.view.View;
 
 import com.lcodecore.extextview.ExpandTextView;
 
@@ -20,6 +22,14 @@ public class MainActivity extends BaseActivity {
 
         ExpandTextView tv = (ExpandTextView) findViewById(R.id.tvTest);
         tv.setText(test);
+
+        findViewById(R.id.btnGo).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, ListActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
 }

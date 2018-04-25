@@ -203,6 +203,9 @@ public class ExpandTextView extends TextView implements View.OnClickListener {
 
     @Override
     public void onClick(View v) {
+        if(isFastClick()){
+            return;//点击过快，不响应点击事件
+        }
         if (!needCollapse) {
             return;//行数不足,不响应点击事件
         }
@@ -350,5 +353,21 @@ public class ExpandTextView extends TextView implements View.OnClickListener {
 
     public void setOnExpandStateChangeListener(OnExpandStateChangeListener listener) {
         mListener = listener;
+    }
+
+    //防止快速点击
+    private static long lastClickTime = 0;//上次点击的时间
+    private static int spaceTime = 500;//时间间隔
+
+    public static boolean isFastClick() {
+        long currentTime = System.currentTimeMillis();//当前系统时间
+        boolean isAllowClick;//是否允许点击
+        if (currentTime - lastClickTime > spaceTime) {
+            isAllowClick = false;
+        } else {
+            isAllowClick = true;
+        }
+        lastClickTime = currentTime;
+        return isAllowClick;
     }
 }
